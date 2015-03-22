@@ -8,7 +8,7 @@ All data needed for this project can be found here
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
-* In order to run run_script.R, have "data" directory in the same directory as run_script.R and have structure like this
+* In order to run run_analysis.R, have "data" directory in the same directory as run_analysis.R and have structure like this
 
 <pre>
 YOUR_DIRECTORY
@@ -27,7 +27,7 @@ YOUR_DIRECTORY
 └── run_analysis.R
 </pre>
 
-* After running run_script.R you should get two new files
+* After running run_analysis.R you should get two new files
 
 merged_tidy_data_set.txt
 tidy_activity_subject_average_data.txt
