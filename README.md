@@ -10,6 +10,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 * In order to run run_script.R, have "data" directory in the same directory as run_script.R and have structure like this
 
+<pre>
 YOUR_DIRECTORY
 |
 ├── data
@@ -24,6 +25,7 @@ YOUR_DIRECTORY
 │       ├── subject_train.txt
 │       └── y_train.txt
 └── run_analysis.R
+</pre>
 
 * After running run_script.R you should get two new files
 
@@ -32,6 +34,7 @@ tidy_activity_subject_average_data.txt
 
 * And now your file structure should be:
 
+<pre>
 YOUR_DIRECTORY
 |
 ├── data
@@ -48,3 +51,4 @@ YOUR_DIRECTORY
 ├── merged_tidy_data_set.txt
 ├── run_analysis.R
 └── tidy_activity_subject_average_data.txt
+</pre>
